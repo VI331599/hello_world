@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, How are you?  </h1>
+<h2> Congratulations! Your latest commit done at 02-Sep-2020 20:20 is here!! </h2>
+<h2> Glad it happened!! </h2>
